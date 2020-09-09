@@ -11,16 +11,10 @@ function navbar(){
                 </div>
                 <ul className="nav-links">
                     <li>
-                        <a><Link to="/">Home</Link></a>
+                        <button>Login</button>
                     </li>
                     <li>
-                        <a>About</a>
-                    </li>
-                    <li>
-                        <a>Login</a>
-                    </li>
-                    <li>
-                        <a>Signup</a>
+                        <button>Signup</button>
                     </li>
                 </ul>
         </div>

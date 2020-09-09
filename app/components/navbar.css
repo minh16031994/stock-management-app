@@ -21,17 +21,9 @@
 }
 .nav-links{
     display: flex;
-    padding-top: 15px;
+    padding-top: 5px;
     justify-content: space-around;
-    width: 35%;
-}
-.nav-links a{
-    color: white;
-    text-decoration: none;
-    letter-spacing: 3px;
-    font-weight: bold;
-    font-size: 20px;
-    cursor: pointer;
+    width: 13%;
 }
 .nav-links li{
     list-style: none;
@@ -39,4 +31,18 @@
 .text-logo{
     font-family: 'Permanent Marker', cursive;
     font-size: 34px;
+}
+button{
+    display: inline-block;
+    padding:13px 26px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color:#fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+    font-size:15px;
 }
