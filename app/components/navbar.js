@@ -11,10 +11,10 @@ function navbar(){
                 </div>
                 <ul className="nav-links">
                     <li>
-                        <button>Login</button>
+                        <Link to="/Login" className="Button">Login</Link>
                     </li>
                     <li>
-                        <button>Signup</button>
+                        <Link to="/Signup" className="Button">SignUp</Link>
                     </li>
                 </ul>
         </div>
