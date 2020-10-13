@@ -43,7 +43,7 @@ function LoginModal(){
                         <br/>
                         <hr/>
                         <p className="or">OR</p>
-                        <div><Link to='/Signup' className="Link-button">Signup</Link></div>
+                        <div><Link to='/Signup' className="Link-button">Login</Link></div>
                         <div className="Error">
                                            
                         </div>

@@ -1,2 +1,5 @@
 [1005/214644.336:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
 [1005/214644.414:ERROR:exception_snapshot_win.cc(100)] thread ID 21188 not found in process
+[1011/140945.206:ERROR:settings.cc(430)] Settings version is not 5
+[1011/142159.213:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\minh1\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\c8eb25c0-9ada-40d5-82a0-462c0fd2eeed: The system cannot find the path specified. (0x3)
+[1011/142159.214:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

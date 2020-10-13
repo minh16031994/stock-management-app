@@ -1,9 +1,8 @@
 import React from 'react';
-import IntroPicture from './intro-picture';
+import "./Home.css";
 function Home(){
     return(
-        <div>
-            <IntroPicture/>
+        <div> 
         </div>
     )
 }

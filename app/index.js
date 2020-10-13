@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from 'react-dom';
-import Navbar from './components/navbar';
-import Home from './components/Home';
-import SignUpModal from './components/SignupModal';
-import LoginModal from './components/LoginModal';
+import Navbar from './components/feature/NavbarHomepage';
+import Home from './components/pages/Home';
+import SignUpModal from './components/feature/SignupModal';
+import LoginModal from './components/feature/LoginModal';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 class App extends React.Component{
     render()

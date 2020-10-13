@@ -1,5 +1,5 @@
 import React from 'react';
-import './navbar.css';
+import './NavbarHomepage.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {Link} from 'react-router-dom';
 import { faDragon } from '@fortawesome/free-solid-svg-icons'
